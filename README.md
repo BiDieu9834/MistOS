@@ -7,3 +7,7 @@
 |Snapshot|预览版本|更新时间较快|
 |Release|正式版本|更新时间最慢|
 |HoaxVersion|愚人节恶搞版本|每年四月左右更新|
+
+本作品通过[CC BY 4.0][1]公开授权。
+
+[1]: https://example.com "示例网站"
