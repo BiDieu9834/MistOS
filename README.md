@@ -1,3 +1,7 @@
+# MistOS
+MistOS是一个基于Scratch开发的WebOS，仅是**一个在TurboWarp平台上运行的、模仿操作系统界面的互动程序，不是一个在真实计算机硬件（x86_64架构等）上运行的操作系统，其完全在编程环境中，使用其积木搭建，依赖Scratch引擎运行**  
+如果你想体验或创作ScratchOS，不妨先试试**MistOS**
+
 # 库结构
 
 |目录|描述|备注|
@@ -8,7 +12,7 @@
 |Release|正式版本|更新时间最慢|
 |HoaxVersion|愚人节恶搞版本|每年四月左右更新|<br>
 <br>
-<font _mstmutation="1" _msttexthash="67441868" _msthash="162"><a href="https://github.com/BiDieu9834" _mstmutation="1" _istranslated="1">BiDieu</a> 推出的 <a href="https://github.com/BiDieu9834/MistOS" _mstmutation="1" _istranslated="1">MistOS</a> © 2026 采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" _mstmutation="1" _istranslated="1">CC BY-NC-ND 4.0</a> 授权<br>
-<br>  
+<a href="https://github.com/BiDieu9834/MistOS">MistOS</a> © 2026 by <a href="https://github.com/BiDieu9834">BiDieu</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0<br>  
+<br>
   
-</font><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
