@@ -8,6 +8,5 @@
 |Release|正式版本|更新时间最慢|
 |HoaxVersion|愚人节恶搞版本|每年四月左右更新|
 
-本作品通过[CC BY 4.0][1]公开授权。
+<font _mstmutation="1"><a href="https://www.bilibili.com/video/BV1kF6MBdEFt/" _mstmutation="1">MistOS</a> © 2026 by <a href="https://github.com/BiDieu9834" _mstmutation="1">BiDieu</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" _mstmutation="1">CC BY-NC-SA 4.0</a></font><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-[1]: https://example.com "示例网站"
