@@ -1,3 +1,6 @@
-# MistOS从这里获取在线资源
+# Online目录
+MistOS 在线资源获取目录，如要下载和使用，请遵守[协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**该文件夹存放MistOS的更新、造型、配置文件等**
+
+
+
